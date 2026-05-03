@@ -2,4 +2,4 @@
 
 Big Buddy.
 
--# Inspired by [big rat](https://bigrat.monster)
+<sup>  Inspired by [big rat](https://bigrat.monster) </sup>
